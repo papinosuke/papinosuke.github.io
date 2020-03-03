@@ -4,6 +4,9 @@
     background-color: green;
     text-align: center;
 }
+.f-container {
+	flex-wrap:nowrap;
+}
 .text {
     font-size: 36px;
     color: #FFF;
