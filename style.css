@@ -10,12 +10,12 @@
     font-size: 80px;
 }
 
-#content {
+#menu {
     float: left;
-    width: 500px;
+    width: 250px;
 }
 
-#menu {
+#content {
     float: right;
-    width: 250px;
+    width: auto;
 }
