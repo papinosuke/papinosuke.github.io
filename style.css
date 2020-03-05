@@ -1,6 +1,7 @@
 body{
     background-color: #FFFFCC;
     color: black;
+    word-wrap: break-word;
 }
 #header{
     width: auto;
