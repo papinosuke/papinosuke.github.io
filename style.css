@@ -1,16 +1,16 @@
-h1{
+#header{
     width: auto;
     height: 100px;
     background-color: rgb(251, 255, 0);
 }
-h2{
+#menu{
     width:200px;
     height:180px;
     background-color: blue;
     float: left;
 }
-p{
-    width:auto;
+#sentence{
+    width: 800px;
     height:180px;
     background-color: darkgreen;
     float: right;
