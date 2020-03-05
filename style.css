@@ -5,13 +5,15 @@ h1{
 }
     
 h2{
-    width:30px;
+    width:200px;
     height:180px;
     background-color: blue;
+    float: left;
 }
     
 p{
-    width:170px;
+    width:700px;
     height:180px;
     background-color: darkgreen;
+    float: right;
 }
