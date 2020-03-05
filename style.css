@@ -5,13 +5,13 @@
 }
 #menu{
     width:20%;
-    height:auto;
+    height:1000px;
     background-color: blue;
     float: left;
 }
 #sentence{
     width: 70%;
-    height:auto;
+    height: 1000px;
     background-color: darkgreen;
     float: right;
 }
