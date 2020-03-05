@@ -1,6 +1,6 @@
 h1{
-    width: 200px;
-    height: 20px;
+    width: auto;
+    height: 100px;
     background-color: azure;
 }
 h2{
@@ -10,7 +10,7 @@ h2{
     float: left;
 }
 p{
-    width:700px;
+    width:auto;
     height:180px;
     background-color: darkgreen;
     float: right;
