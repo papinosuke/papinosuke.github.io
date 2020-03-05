@@ -3,14 +3,12 @@ h1{
     height: 20px;
     background-color: azure;
 }
-    
 h2{
     width:200px;
     height:180px;
     background-color: blue;
     float: left;
 }
-    
 p{
     width:700px;
     height:180px;
