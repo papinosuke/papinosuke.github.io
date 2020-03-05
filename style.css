@@ -1,23 +1,17 @@
-#site-box {
-    width : 100%;
+h1{
+    width: 200px;
+    height: 20px;
+    background-color: azure;
 }
-
-#header {
-    width: auto;
-    height: auto;
+    
+h2{
+    width:30px;
+    height:180px;
     background-color: blue;
-    text-align: center;
-    font-size: 80px;
 }
-
-#menu {
-    background-color: green;
-    float: left;
-    width: 250px;
-}
-
-#content {
-    float: right;
-    width: 500;
-    background-color: red;
+    
+p{
+    width:170px;
+    height:180px;
+    background-color: darkgreen;
 }
