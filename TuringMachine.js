@@ -1,1 +1,1 @@
-alert("Hello Javascript")
+document.write("hello")
